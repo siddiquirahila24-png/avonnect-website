@@ -1,5 +1,5 @@
 ---
-const logoUrl = '/logo.png'; // Place <img src="/logo.png" alt="Avonnect Logo" />
+const logoUrl = '/public/2.png; // Place <img src="/logo.png" alt="Avonnect Logo" />
 ---
 <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 2rem;">
   <img src={logoUrl} alt="Avonnect Logo" style="height: 64px; margin-bottom: 0.5rem;" />
