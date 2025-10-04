@@ -1,7 +1,7 @@
 ---
-const logoUrl = '/896718a318893c43fed0dcda186680c739f6f214; // Place <img src="/logo.png" alt="Avonnect Logo" />
+const logoUrl = '/images//public/favicon.png';
 ---
 <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 2rem;">
-  <img src={logoUrl} alt="Avonnect Logo" style="height: 64px; margin-bottom: 0.5rem;" />
+  <img src={logoUrl} alt="Avonnect Logo" style="height: 100px; margin-bottom: 0.5rem;" />
   <h1 style="color: #013220; font-size: 2rem; font-weight: 700; margin: 0;">Avonnect</h1>
 </div>
